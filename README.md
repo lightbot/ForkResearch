@@ -16,8 +16,11 @@ Take the first line as an example:
 > r-x,2349443,fte_openid_whitelist,0,Fri Sep 09 00:02:20 CST 2011,Wed Sep 21 07:05:41 CST 2011,Fri Jan 04 12:56:34 CST 2013,212,1,Ruby,0,0,1,1,
 
 The repository's name is fte_openid_whitelist. Its owner is r-x and its id on Github is 2349443. It isn't forked from other repository (is_fork == 0). It is coded in Ruby.
+
 It is created at "Fri Sep 09 00:02:20 CST 2011", pushed as "Wed Sep 21 07:05:41 CST 2011" and lastly updated at "Fri Jan 04 12:56:34 CST 2013".
+
 Until the date when we crawled the data, the repository is forked by 0 person, stared by 1 person, and has only 1 open issues.
+
 The repository has files for downloading (has_downloads == 1) and it has wiki page (has_wiki == 1).
 
 (Since the txt file is larger more than 500MB, it is zipped and divided to 4 zip file.)
