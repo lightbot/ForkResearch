@@ -23,7 +23,7 @@ Until the date when we crawled the data, the repository is forked by 0 person, s
 
 The repository has files for downloading (has_downloads == 1) and it has wiki page (has_wiki == 1).
 
-(Since the txt file is larger more than 500MB, it is zipped and divided to 4 zip file.)
+(Since the txt file is larger more than 500MB, it is zipped and divided to 4 zip files. To unzip the data, you need to download all 4 files.)
 
 ## 2. fork_report_x.xlsx
 
