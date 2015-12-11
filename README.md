@@ -23,7 +23,7 @@ Until the date when we crawled the data, the repository is forked by 0 person, s
 
 The repository has files for downloading (has_downloads == 1) and it has wiki page (has_wiki == 1).
 
-(Since the txt file is larger more than 500MB, it is zipped and divided to 4 zip files. To unzip the data, you need to download all 4 files which are newRepositorys.zip, newRepositorys.z01, newRepositorys.z02, and newRepositorys.z03. Then open the newRepositorys.zip to start upzipping.)
+(Since the file ‘newRepositorys.zip’ is larger more than 500MB, it is zipped and divided to 4 zip files, including newRepositorys.zip, newRepositorys.z01, newRepositorys.z02, and newRepositorys.z03. All files need to be downloaded at first. Then these 4 files are uncompressed together to generate the original file.)
 
 ## 2. fork_report_x.xlsx
 
